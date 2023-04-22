@@ -1,3 +1,3 @@
 # Calculator
 
-View the calculator project in the calculator folder above.
+View the calculator project in the Calculator folder above.
