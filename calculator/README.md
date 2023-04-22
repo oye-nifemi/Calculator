@@ -1,3 +1,8 @@
+This is a simple calculator built with React.
+
+![calculator](https://user-images.githubusercontent.com/116925652/233754933-7edac7e3-9997-4ba1-b705-6f9182daf119.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
